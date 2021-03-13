@@ -15,6 +15,12 @@ public class Exciting {
 	short lowest = 5;
 
 	// Put your declarations and initialisations to b) beneath here
+	double temperature;
+	int jackpotNo;
+	int populationChina;
+	boolean endGame = false;
+	float distance;
+	char grade;
 
 	public void doit() {
 		double x = 3.0;
@@ -27,6 +33,11 @@ public class Exciting {
 		System.out.println(z);
 
 		// display the details for the variables you declared in a)
+		System.out.println(count);
+		System.out.println(cost);
+		System.out.println(choice);
+		System.out.println(goodChoice);
+		System.out.println(lowest);
 
 		// display the details for the variables you declared in b)
 
