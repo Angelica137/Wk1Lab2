@@ -2,8 +2,8 @@
 /**
  * Write a description of class Exciting here.
  * 
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Angelica)
+ * @version (13 Mar 2021)
  */
 public class Exciting {
 	// Put your declarations for a) beneath here
