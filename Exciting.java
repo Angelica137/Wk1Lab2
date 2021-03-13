@@ -40,6 +40,12 @@ public class Exciting {
 		System.out.println(lowest);
 
 		// display the details for the variables you declared in b)
+		System.out.println(temperature);
+		System.out.println(jackpotNo);
+		System.out.println(populationChina);
+		System.out.println(endGame);
+		System.out.println(distance);
+		System.out.println(grade);
 
 	}
 
