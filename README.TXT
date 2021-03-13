@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Wk1 lab2 Exciting
+PURPOSE OF PROJECT: NA
+VERSION or DATE: 13 March 2021
+HOW TO START THIS PROJECT: java TestExciting
+AUTHORS: AB
 USER INSTRUCTIONS:
