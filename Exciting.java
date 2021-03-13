@@ -15,12 +15,12 @@ public class Exciting {
 	short lowest = 5;
 
 	// Put your declarations and initialisations to b) beneath here
-	double temperature;
-	int jackpotNo;
-	int populationChina;
+	double temperature = 17.5;
+	int jackpotNo = 9;
+	int populationChina = 12354;
 	boolean endGame = false;
-	float distance;
-	char grade;
+	double distance = 8743.234;
+	char grade = 'A';
 
 	public void doit() {
 		double x = 3.0;
